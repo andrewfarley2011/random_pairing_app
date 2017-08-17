@@ -11,5 +11,4 @@ for (var i = 1; i <= x; i++ ) {
         input.required = true;
         input.placeholder = "Enter name here."
         document.getElementById("demo").appendChild(input).value;
-    }
 }

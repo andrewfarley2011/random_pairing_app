@@ -11,8 +11,11 @@ header {
 }
  
 body {
-    background-color: yellow;    
+    /*background-image: url("../img/Elephant.png");*/
+    background-color: yellow;
     background-size: 100% 100%;
+    /*min-height: 100%;*/
+    /* The line above is only applicable when trying to use the background image. */
     padding-top: 50px;
     height: 100%;
     width: 100%;
